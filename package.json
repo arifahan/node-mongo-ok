@@ -1,0 +1,14 @@
+{
+  "name": "mongo-ok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "someTestCommand.exe"
+  },
+  "author": "ariful",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
